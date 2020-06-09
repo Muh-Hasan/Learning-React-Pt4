@@ -1,0 +1,30 @@
+.room{
+    height: 100vh;
+    text-align: center;
+    padding-top: 150px;
+}
+
+
+.lit{
+    background-color: black;
+    color: white;
+}
+.dark{
+    background-color: white;
+    color: black;
+}
+
+button{
+    padding: 5px 20px ;
+    margin-right: 10px;
+    border: none;
+    background-color: slategray;
+}
+button:hover{
+    background-color: teal;
+}
+div{
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
